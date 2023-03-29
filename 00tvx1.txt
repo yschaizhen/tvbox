@@ -1,5 +1,5 @@
 {
-"spider":"https://ghproxy.net/https://raw.githubusercontent.com/c120487/00/blob/main/jar/xc0126.jar?raw=true",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/c120487/00/main/jar/xc0126.jar?raw=true",
 
 //"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 //"spider":"https://ghproxy.net/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/JAR/Yoursmile2.jar",
@@ -17,8 +17,8 @@
 //"spider":"https://ghproxy.net/https://raw.githubusercontent.com/c120487/TvJar/raw/main/jar/custom_spider.jar",
 
 "lives":[
-	{"name":"05151","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/c120487/00/main/00live05151.txt"},
-	{"name":"05152","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/c120487/00/main/00live05152.txt"},
+	{"name":"05151","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/c120487/00/main/00live0515.txt"},
+	{"name":"05152","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/c120487/00/main/00live05155.txt"},
 	{"name":"05153","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/c120487/00/main/00live05153.txt"},
 	{"name":"FongMi","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"},
 	{"name":"TVBOXZY","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/live.txt"},
